@@ -3,9 +3,7 @@
 ## Project Overview
 SecureLink is an intelligent system that utilizes machine learning techniques to detect and classify phishing URLs in real-time. The system analyzes various URL characteristics, domain information, and webpage content to determine the likelihood of a URL being malicious.
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+
 
 ## Features
 - Real-time URL analysis and threat detection
@@ -83,20 +81,6 @@ pytest tests/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Authors
-- Mahmoud Osama - *Initial work* - (https://github.com/Mahmoud-Ossama)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Dataset provided by PhishTank
-- Inspired by research on ML-based phishing detection
-- Thanks to Delta University/Faculty of AI - Cybersecurity Department for project support
-
-## Contact
-Mahmoud Osama - vip.m.osama@gmail.com
-Project Link: https://github.com/Mahmoud-Ossama/ML-Based-Phishing-URL-Detection-System
 
 ## Future Improvements
 - [ ] Implement deep learning models
@@ -106,11 +90,6 @@ Project Link: https://github.com/Mahmoud-Ossama/ML-Based-Phishing-URL-Detection-
 - [ ] Add API rate limiting
 - [ ] Enhance feature extraction
 
-## Citation
-If you use this project in your research, please cite:
-```
-@misc{securelink2024,
-  author = {Mahmoud Osama},
   title = {SecureLink: Machine Learning-Based Phishing URL Detection System},
   year = {2024},
   publisher = {GitHub},
